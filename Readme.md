@@ -2,7 +2,7 @@
 <img src="todoloist.png" alt="todoloist">
 </div>
 
-<h1 align="center" style="font-size: 80px;" >TodoList App with Single LindList in CPP <h1>
+<h1 align="center" style="font-size: 80px;" >TodoList App with Single LinkedList in CPP <h1>
 
 # [main.cpp](/main.cpp)
 
